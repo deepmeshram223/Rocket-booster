@@ -98,14 +98,4 @@ Game Developer | Unity & C#
 🔗 GitHub: [https://github.com/deepmeshram223](https://github.com/deepmeshram223)
 🔗 LinkedIn: [https://www.linkedin.com/in/deep-meshram-9035a4258/](https://www.linkedin.com/in/deep-meshram-9035a4258/)
 
----
-
-If you want, I can also:
-
-* Write a **short README version**
-* Add **screenshots / GIF section text**
-* Make it **studio-style (AAA-inspired)**
-* Customize it for **internship portfolios**
-
-Just tell me 👍
 

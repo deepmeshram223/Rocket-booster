@@ -71,31 +71,6 @@ RocketBooster/
 4. Open the main scene
 5. Press **Play** to start the game
 
----
 
-## 🎯 Learning Outcomes
-
-* Gained hands-on experience with Unity’s physics system
-* Improved understanding of player movement and control mechanics
-* Learned modular script design and game structure
-* Practiced debugging, optimization, and gameplay tuning
-
----
-
-## 🔮 Future Improvements
-
-* Add sound effects and background music
-* Implement UI elements (fuel bar, score, timer)
-* Add more levels with complex obstacles
-* Introduce checkpoints and save system
-
----
-
-## 👨‍💻 Developer
-
-**Deep Meshram**
-Game Developer | Unity & C#
-🔗 GitHub: [https://github.com/deepmeshram223](https://github.com/deepmeshram223)
-🔗 LinkedIn: [https://www.linkedin.com/in/deep-meshram-9035a4258/](https://www.linkedin.com/in/deep-meshram-9035a4258/)
 
 
